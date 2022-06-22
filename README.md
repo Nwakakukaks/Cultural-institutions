@@ -2,8 +2,9 @@
 
 Link to pdf file 
 
-https://github.com/nwakakukaks/Cultural-institutions/cultural institutions whitepaper.pdf
-Click on raw then download tp access file locally 
+https://github.com/nwakakukaks/Cultural-institutions
+navigate to main code
+Click on raw then download to access file locally 
 
 Link to Slides and presentation video 
 
